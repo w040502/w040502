@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ruoxi 👋
 
-<!--
-**w040502/w040502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student with a strong interest in data analysis, technology, and storytelling with data. 
+I enjoy working with data to understand patterns, communicate insights clearly, and explore how
+technical tools can be used to support meaningful narratives.
 
-Here are some ideas to get you started:
+## About Me
+- 📊 Interested in data analysis, data visualization, and clear communication of complex ideas
+- ✍️ Learning how writing, data, and technology intersect in academic and real-world contexts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Skills
+- **Programming & Data**
+  - Python
+  - Excel
+- **Version Control & Writing**
+  - Git / GitHub
+  - Markdown
+
+## Goals
+- Learn how to document projects clearly using Markdown
+- Use GitHub effectively for collaboration and version control
+- Improve my ability to communicate data-driven ideas to different audiences
+
+## Contact
+- GitHub Profile: https://github.com/w040502
